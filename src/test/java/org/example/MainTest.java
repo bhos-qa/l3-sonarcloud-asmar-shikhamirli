@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
 
-public class Maintest {
+class MainTest {
 
     PermissionManager permissionManager;
 
